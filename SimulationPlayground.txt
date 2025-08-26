@@ -1,0 +1,26 @@
+//page3
+
+let numberOfAnts = 2
+let antSpeed = 150
+
+//page4
+
+let environmentCellSiz = 24
+let numberOfAnts = 300
+let pheromoneEvaporationRate = 950
+let pheromoneDepositRate = 900
+
+//page5
+
+let homePheromoneDepositRate = 1000
+let foodPheromoneDepositRate = 1000
+let homePheromoneEvaporationRate = 500
+let foodPheromoneEvaporationRate = 500
+
+let environmentCellSize = 10
+let numberOfAnts = 350
+
+
+let antSpeed = 1000
+
+
