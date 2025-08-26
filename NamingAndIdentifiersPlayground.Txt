@@ -51,3 +51,40 @@ let numberOfSnakes = 1
 let numberOfTotalexpenses = 1040
 
 //page11
+
+let ticketsSold = 1000
+let ticketPrice = 1
+let printingCosts = 20
+let advertising = 50
+
+//page12
+
+
+//page13
+
+let brushTeeth = 3
+let takeShower = 20
+let chooseClothes = 3
+let ironClothes = 7
+let eatFood = 10
+
+
+let totalTimeOfActivties = 43
+
+ let thingsIHaveToDo = 6
+ let thingsILikeToDo = 6
+
+//pag14
+
+let oc = 14
+let wc = 3
+let ow = 200
+let ww = 300
+let to = oc * ow
+let tw = wc * ww
+let ttl = to + tw
+let es = ttl / 2
+let lhso = es / ow
+let rhso = oc - lhso
+
+
