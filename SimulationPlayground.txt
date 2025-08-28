@@ -19,8 +19,14 @@ let foodPheromoneEvaporationRate = 500
 
 let environmentCellSize = 10
 let numberOfAnts = 350
-
-
 let antSpeed = 1000
 
+//page6 questions
 
+// 1. based on the observation the ant would speed up if i put the speed to 500.
+// 2. when i decrese pheromoneEvaporationRate, pheromoneDepositRate the blue doesnt become thicker as if if i increased it high. i found out a steady speed prduces more colonies.
+// 3. if tthe enviroment cell size was altered by 10 to 15 there i would see something diffrerent in the simulation
+// 4. A hypotheses i can make when i increase the food code decrese the ant speed the ants will still move at a fast rate
+// 5. The most foraging behaviors were once with a fairly high ant population and high food and home pheromone deposite rate.
+// 6. if i wanted to make this model more real world i would add preditors like, grasshopers, roach, ant-eater etc.
+// 7. No qu4eestions.
