@@ -1,0 +1,89 @@
+//page 3
+let heightInCentimeters = 7817
+//: To declare a string constant, you put text between quotation marks like this:
+let favoriteBook = "The Sun Also Rises"
+
+let traditionalGreeting = "Hello, world!"
+/*:
+The declared string values also appear in the results sidebar. 👉
+
+ - Experiment: Practice by declaring `favoriteMovie` and `favoriteSong` string constants for your favorite movie and song:
+ */
+let favoriteMovie = "space jam"
+
+let favoriteSong = "Finest"
+
+//page5
+print("Testing, one two three.")
+print("Testing, four five six.")
+
+//page6
+
+let firstName = "Juliyahs"
+
+let LastName = "Mareno"
+
+
+let FullName = firstName + " " + LastName
+//page8
+
+// Change this to your favorite food
+let favoriteFood = "pie"
+
+// Change this to why you like it
+let reason = "tasty"
+
+// Define a string below in the pattern "I like ___ because it is ___."
+let favorites = "I like \(favoriteFood), because it is \(reason)."
+
+//page10
+let quaterbackName = "lamar"
+let firsthalfTouchdowns = 2
+let secondhalfTouchdowns = 3
+let passingYards = 450
+let FootballReport = "Friday night at the game,\(quaterbackName) had \( firsthalfTouchdowns) touchdowns in the first half, \(secondhalfTouchdowns) in the second half \(passingYards) in totatl yards thrown, his stats for the game were \(firsthalfTouchdowns + secondhalfTouchdowns) touchdowns, and \(passingYards)  passing yards "
+
+//page14
+
+let story = " learning to make storys"
+let finishSentence = " learning to fill in the blanks so i could finish the sentence"
+
+//page17
+
+let minutesYouCanRecord = 33
+let story = " you can recored \( minutesYouCanRecord) more minutes of video on your phone."
+
+//page18
+
+"Hello, world!"
+print("Hello, world!")
+//: Numbers and calculations:
+8
+print(8)
+7 + 11
+print(7 + 11)
+//: String expressions:
+"Have you seen" + "..." + "nevermind."
+print("Have you seen" + "..." + "nevermind.")
+//: Constants:
+let authorName = "Beatrix Potter"
+print(authorName)
+let bookTitle = "Jemima Puddleduck"
+print(bookTitle)
+//: Variables (you'll learn about these in the next lesson):
+var favoriteCookie = "chocolate chip"
+print("My favorite type of cookie is \(favoriteCookie).")
+favoriteCookie = "double chocolate chip"
+print("Wait! I forgot about \(favoriteCookie). That one is even better.")
+/*:
+ The result of whatever’s inside the parentheses will appear in the console.
+
+ - Experiment: Look for the following statements in the results sidebar, then make each statement print to the console, following the example.\
+Before:\
+`authorName`\
+After:\
+`print(authorName)`
+ */
+authorName
+"authorName"
+"Did you know that \(bookTitle) was written by \(authorName)?"
