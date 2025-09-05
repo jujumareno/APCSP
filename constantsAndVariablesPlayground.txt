@@ -1,0 +1,77 @@
+//page2
+let BirthPlace = "california"
+let live = "california"
+let age = 16
+let favoriteMovie = "space jam"
+let inchesInFoot = 73
+let firstPresident = "george washington"
+
+//page3
+// Assign a new value
+let birthPlace = "califorinia"
+var currentLocation = "california"
+currentLocation = "california"
+
+//page4
+score + score 
+
+//page5
+let word1 = "Compound"
+let word2 = "assignment"
+let word3 = "is"
+let word4 = "useful"
+let space = " "
+
+var statement = ""
+statement += word1
+//:  Compound assignment works with all the mathematical operators, even the remainder operator. Use the `*=` operator to create the powers of two up to two to the 10th:
+var powerOfTwo = 1
+
+//page5
+let word1 = "Compound"
+let word2 = "assignment"
+let word3 = "is"
+let word4 = "useful"
+let space = " "
+
+var statement = ""
+statement += word1
+//:  Compound assignment works with all the mathematical operators, even the remainder operator. Use the `*=` operator to create the powers of two up to two to the 10th:
+var powerOfTwo = 1
+
+//page9
+let = "tea"
+
+findCoffeeGrinder()
+
+friendBeverageChoice = "water"
+friendBeverageChoice = "sparkling water"
+friendBeverageChoice = "plain water"
+
+findCoffeeBeans()
+driveHome()
+setUpCoffeeGrinder()
+
+friendBeverageChoice = "nothing 😴"
+grindBeans()
+makeFriendDrinkCoffee()
+
+//page10
+let scoreForGreen = 5
+var scoreForRed = 10
+var scoreForGold = 20
+
+// Player scores
+var scoreForGary = 0
+var scoreForRob = 0
+
+//page12
+let eggs = "Eggs"
+let milk = "Milk"
+let cheese = "Cheese"
+let bread = "Bread"
+let rice = "Rice"
+let newLine = "\n"
+let cake = "cake"
+
+
