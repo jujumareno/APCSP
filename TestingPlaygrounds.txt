@@ -1,1 +1,57 @@
+i/page 1
+var bank = PiggyBank()
+bank.deposit (pennies: 5)
+bank.withdraw(pennies: 2)
+bank. balance
+output:
+- balance increased by 5 after depositing
+- the balance went down to 3 after withdrawing
+it happened because the numbers are small and valid so the piggy bank worked
+12
+Preview
+//page 2
+bank.deposit(pennies: 250)
+bank.deposit (pennies: 10)
+output:
+- there was an error trying to go over 255
+ou naooened oecause une
+piggy bank uses UInt8 and can only do numbers from 0 to 255
+//page 3
+bank. withdraw(pennies: 300)
+output:
+- there was an error
+it happened because UInt8 cannot store negative numbers
 
+
+1/page 4
+var testBank = PiggyBank()
+testBank.deposit(pennies: 10) testBank.withdraw(pennies: 5)
+ 
+Spaces
+No wrap
+53
+55
+57
+58
+- it was true
+it happened because it had actually matched the output which means it worked correctly
+//page 5
+change (for: 10, purchasePrice: 2.70)
+output:
+- une correct
+amount or change was returned
+ 
+values are normal and dont push the limits of the code
+//page 6
+change (for: 10, purchasePrice: 895)
+output:
+- change was sometimes off by a penny
+it happened because the decimal 8.95 cant be stored as a double, when it was able to it was incorrect
+
+//page 7
+let a = 0.1
+let b = 0.2
+print(a+b)
+outout:
+- ominted as asooooooooooooda
+it happened becuase floating point bumbers are approximations
