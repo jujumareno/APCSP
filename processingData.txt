@@ -1,0 +1,89 @@
+12:44
+•ll 5G 48)
+Submission
+Tabulator
+Attempt 1
+Feb 10, 2026 at 8:47 PM
+for value in tabulator.values |
+print ("\(value): |(tabulator.count (forValue: value)) ")
+var tabulator = Tabulator ()
+or show in randomShowData abulator. incrementCount (forValue: show
+for show in showcatalog i
+let count = tabulator.count (forValue: show)
+print ("\ (show): \ (count)")
+var tabulator = Tabulator ()
+for show in surveyData {
+tabulator. incrementCount (forValue: show)
+for value in tabulator.values |
+print ("\(value): \(tabulator.count (forValue: value)) ")
+print ("\n***** DATA ERRORS *****\n")
+var errorCount = 0
+for value in tabulator.values {
+if !showCatalog.contains (value)(
+errorCount += 1|
+print("\(value): |(tabulator.count (forValue: value))")
+print ("\nTotal errors: |(errorCount) ")
+rint ("\n***** SECOND CLEANING PASS *****\n" rint ("\n***** TABULATION FOR VALID DATA *****\n"
+var tabulator = Tabulator ()
+var lowercaseCatalog: [String] = []
+for show in showcatalog |
+lowercaseCatalog.append (show.lowercased())
+for raw in surveyData ( let cleaned =
+raw. lowercased ()
+tabulator.incrementCount (forValue: cleaned)
+for value in tabulator.values |
+Comments
+Files (1)
+Rubric
+Type here...
+Dashboard
+Calendar
+To-do
+Notifications
+Inbox
+
+
+2:241
+"ll 5G° 64)
+Photo
+empt 1
+X
+Feb 10,20
+if lowercaseCatalog.contains (value) |
+print("\(value): |(tabulator.count|forValue: value))")
+print("\n***** DATA ERRORS
+*****\n")
+var errorCount = 0
+for value in tabulator.values |
+if !lowercaseCatalog.contains (value) /
+errorCount += 1
+print("\(value): |(tabulator.count (forValue: value))")
+｝
+print("InTotal errors: |(errorCount)")
+print (editDistance (from: "cat", to: "cake")) print (editDistance|from: "wildcat", to: "cats") ) print (editDistance|from: "wildcat", to: "wildcat"))
+func closestMatch(for value: String, from potentialMatches: [String]) ->
+var bestDistance = Int.max
+var bestIndex = 0
+for i in 0..<potentialMatches.count |
+let candidate = potentialMatches[il
+let d = editDistance (from: value, to: candidate)
+if d ‹ bestDistance {
+bestDistance = d
+bestIndex = i
+｝
+return potentialMatches [bestIndex]
+print ("\n*****
+THIRD CLEANING PASS (SPELLING FIX)
+print("\n***** TABULATION FOR VALID DATA *****\n")
+*****\n")
+var tabulator = Tabulator ()
+var lowercaseCatalog: [String] = []
+for show in showCatalog |
+lowercaseCatalog.append (show.lowercased())
+var errorCount = 0
+for raw in surveyData (
+let cleaned = raw. lowercased ()
+Cor
+分
+Files (1)
+ric
